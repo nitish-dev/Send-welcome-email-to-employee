@@ -1,0 +1,14 @@
+[
+    { 
+        "team": "Engineering",
+        "employees": ["Lawana Fan", "Larry Rainer", "Rahul Malik", "Leah Shumway"]
+    },
+    { 
+        "team": "IT",
+        "employees": ["Nitish Singh", "Sita Gupta", "Shambhu Sharma", "Pankaj", "Priyanka Sinha"]
+    },
+    { 
+        "team": "HR",
+        "employees": ["Rajan Singh", "Ruchir Saksena", "Shambhu Kumar", "Pankaj thirpathi", "Priyanka chopra"]
+    }
+]
